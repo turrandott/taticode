@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "taticode",
+    "taticode-me": "taticode-me"
+  }
+}
